@@ -29,4 +29,9 @@ public class TestApp {
 	{
 		System.out.println("factorial");
 	}
+	@Test
+	public void rev()
+	{
+		System.out.println("reverse string");
+	}
 }
