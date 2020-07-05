@@ -24,4 +24,9 @@ public class TestApp {
 	{
 		System.out.println("div");
 	}
+	@Test
+	public void fact()
+	{
+		System.out.println("factorial");
+	}
 }
