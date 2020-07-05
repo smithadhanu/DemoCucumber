@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="197" started-at="2020-07-02T23:09:46 IST" finished-at="2020-07-02T23:09:46 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="197" started-at="2020-07-02T23:09:46 IST" finished-at="2020-07-02T23:09:46 IST">
+      <class name="com.qa.Test.TestApp">
+        <test-method status="PASS" signature="add()[pri:0, instance:com.qa.Test.TestApp@343f4d3d]" name="add" duration-ms="31" started-at="2020-07-02T23:09:46 IST" finished-at="2020-07-02T23:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.Test.TestApp@343f4d3d]" name="div" duration-ms="0" started-at="2020-07-02T23:09:46 IST" finished-at="2020-07-02T23:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:com.qa.Test.TestApp@343f4d3d]" name="mul" duration-ms="1" started-at="2020-07-02T23:09:46 IST" finished-at="2020-07-02T23:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.Test.TestApp@343f4d3d]" name="sub" duration-ms="0" started-at="2020-07-02T23:09:46 IST" finished-at="2020-07-02T23:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.qa.Test.TestApp -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
