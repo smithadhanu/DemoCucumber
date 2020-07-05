@@ -34,4 +34,14 @@ public class TestApp {
 	{
 		System.out.println("reverse string");
 	}
+	@Test
+	public void dhanu()
+	{
+		System.out.println("dhanu string");
+	}
+	@Test
+	public void smitha()
+	{
+		System.out.println("smitha string");
+	}
 }
